@@ -15,7 +15,7 @@ public class TestPerson {
         int expected = 42;
         Person p = new Person(1, "John","Doe", LocalDate.of(1978, 8, 10));
         //act
-        int age = p.calculateAge()+1;
+        int age = p.calculateAge();
         // assert
         assertEquals(expected, age);
 
