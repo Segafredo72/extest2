@@ -14,7 +14,7 @@ public class TestAddress {
         Address a = new Address("Diestesteenweg","32 bus 4B","3000","Leuven","Belgie","BE");
         //Act
         boolean b = a.checkBelgianZipCode();
-        //Assess
+        //Assert
         assertTrue(b);
     }
 }

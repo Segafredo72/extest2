@@ -22,18 +22,14 @@ public class TestPerson {
 
     @Test
     public void personShouldBe42(){
-        //arrange
-        //act
-        // assert
+         // assert
         assertThat(p.calculateAge(), is (equalTo(42)));
 
     }
 
     @Test
     public void toStringSentenceStartsWithPerson(){
-        //arrange
-        //act
-        // assert
+         // assert
         assertThat(p.toString(), startsWith("Person"));
 
     }
