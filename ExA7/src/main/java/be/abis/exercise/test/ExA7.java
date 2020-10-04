@@ -11,7 +11,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 
-public class ExA6 {
+public class ExA7 {
 
 	public static void main(String[] args) {
 

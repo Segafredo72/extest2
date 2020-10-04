@@ -1,3 +1,5 @@
+package be.abis.erxercise.ut;
+
 import be.abis.exercise.model.Person;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,3 +1,5 @@
+package be.abis.erxercise.ut;
+
 import be.abis.exercise.model.Address;
 import org.junit.Test;
 
