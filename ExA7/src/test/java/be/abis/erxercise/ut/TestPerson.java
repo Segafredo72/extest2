@@ -1,5 +1,6 @@
 package be.abis.erxercise.ut;
 
+import be.abis.exercise.exception.PersonShouldBeAdultException;
 import be.abis.exercise.model.Person;
 import org.junit.Before;
 import org.junit.Test;
@@ -21,7 +22,7 @@ public class TestPerson {
     }
 
     @Test
-    public void personShouldBe42(){
+    public void personShouldBe42() throws PersonShouldBeAdultException {
          // assert
         assertThat(p.calculateAge(), is (equalTo(42)));
 
@@ -32,5 +33,11 @@ public class TestPerson {
          // assert
         assertThat(p.toString(), startsWith("Person"));
 
+    }
+
+    @Test(expected= PersonShouldBeAdultException.class)
+    public void calculateAgeShouldThrowExceptionWhenPersonNotAdult() throws PersonShouldBeAdultException {
+        Person p2 = new Person(2,"Jane","Smith",LocalDate.of(2007, 8, 10));
+        p2.calculateAge();
     }
 }
