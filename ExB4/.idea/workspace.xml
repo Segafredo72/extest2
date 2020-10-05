@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e76f3f6-4189-4ba4-9780-d8564b67fa04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExB4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/PersonShouldBeAdultException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/test/ExB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ut/MyTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ut/TestAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ut/TestPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExA6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExA6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExA7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExA7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExB1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExB1/.idea/workspace.xml" afterDir="false" />
@@ -288,23 +274,28 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyTestSuite - 2020.10.05 at 12h 16m 15s.xml">
+      <configuration name="MyTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1034" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

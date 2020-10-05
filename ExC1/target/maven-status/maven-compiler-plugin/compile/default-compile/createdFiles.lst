@@ -1,0 +1,5 @@
+exercise\model\Company.class
+exercise\test\ExC1.class
+exercise\model\Address.class
+exercise\exception\PersonShouldBeAdultException.class
+exercise\model\Person.class
